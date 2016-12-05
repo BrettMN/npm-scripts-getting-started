@@ -1,0 +1,21 @@
+{
+  "name": "npm-scripts-getting-started",
+  "version": "0.0.1",
+  "description": "A simple getting started with npm scripts project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:js": "babel src -d dist --presets es2015"
+  },
+  "keywords": [
+    "npm",
+    "scripts",
+    "beginner"
+  ],
+  "author": "BrettMN <brett@wipdeveloper.com> (https://www.wipdeveloper.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0"
+  }
+}
