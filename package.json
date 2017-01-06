@@ -1,6 +1,6 @@
 {
   "name": "npm-scripts-getting-started",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A simple getting started with npm scripts project",
   "main": "app.js",
   "scripts": {
